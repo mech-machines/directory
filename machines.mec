@@ -1,0 +1,7 @@
+# Mech machines directory
+
+This is a listing of all available machines
+  #mech/machines = [|name    version url|
+                     "math"  "0.0.1" "https://github.com/mech-lang/machines/math/releases/download/v0.0.1/"
+                     "stats" "0.0.1" "https://github.com/mech-lang/machines/stats/releases/download/v0.0.1/"
+                     "time"  "0.0.1" "https://github.com/mech-lang/machines/time/releases/download/v0.0.1/"]
