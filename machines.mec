@@ -2,7 +2,8 @@
 
 This is a listing of all available machines
   #mech/machines = [|name      version url|
-                     "math"    "0.0.1" "https://github.com/mech-lang/math/releases/download/v0.0.1/"
-                     "stats"   "0.0.1" "https://github.com/mech-lang/stats/releases/download/v0.0.1/"
-                     "time"    "0.0.1" "https://github.com/mech-lang/time/releases/download/v0.0.1/"
-                     "random"  "0.0.1" "https://github.com/mech-lang/random/releases/download/v0.0.1/"]
+                     "math"    "0.0.1" "https://github.com/mech-machines/math/releases/download/v0.0.1/"
+                     "stats"   "0.0.1" "https://github.com/mech-machines/stats/releases/download/v0.0.1/"
+                     "time"    "0.0.1" "https://github.com/mech-machines/time/releases/download/v0.0.1/"
+                     "random"  "0.0.1" "https://github.com/mech-machines/random/releases/download/v0.0.1/"
+                     "system"  "0.0.1" "https://github.com/mech-machines/system/releases/download/v0.0.1/"]
