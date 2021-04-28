@@ -8,3 +8,4 @@ This is a listing of all available machines
                      "random"      "0.0.1" "https://github.com/mech-machines/random/releases/download/v0.0.1/"
                      "system"      "0.0.1" "https://github.com/mech-machines/system/releases/download/v0.0.1/"
                      "io-streams"  "0.0.1" "https://github.com/mech-machines/io-streams/releases/download/v0.0.1/"]
+                     "file"  "0.0.1" "https://github.com/mech-machines/file/releases/download/v0.0.1/"]
