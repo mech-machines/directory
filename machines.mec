@@ -11,5 +11,6 @@ This is a listing of all available machines
                      "string"      "0.0.1" "https://github.com/mech-machines/string/releases/download/v0.0.1/"
                      "set"         "0.0.1" "https://github.com/mech-machines/stat/releases/download/v0.0.1/"
                      "mech"        "0.0.1" "https://github.com/mech-machines/mech/releases/download/v0.0.1/"
+                     "http"        "0.0.1" "https://github.com/mech-machines/http/releases/download/v0.0.1/"
                      "file"        "0.0.1" "https://github.com/mech-machines/file/releases/download/v0.0.1/"]
                      
