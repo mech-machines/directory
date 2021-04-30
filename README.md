@@ -8,4 +8,4 @@ Mech is a language for developing **data-driven**, **reactive** systems like ani
 
 --
 
-This repository hosts the Mech machines directory.
+This repository hosts a listing of all machines avialable for use with Mech.
