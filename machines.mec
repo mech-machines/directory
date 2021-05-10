@@ -7,7 +7,7 @@ This is a listing of all available machines
                      "time"        "0.0.1" "https://github.com/mech-machines/time/releases/download/v0.0.1/"
                      "random"      "0.0.1" "https://github.com/mech-machines/random/releases/download/v0.0.1/"
                      "system"      "0.0.1" "https://github.com/mech-machines/system/releases/download/v0.0.1/"
-                     "io-streams"  "0.0.1" "https://github.com/mech-machines/io-streams/releases/download/v0.0.1/"
+                     "io"          "0.0.1" "https://github.com/mech-machines/io/releases/download/v0.0.1/"
                      "string"      "0.0.1" "https://github.com/mech-machines/string/releases/download/v0.0.1/"
                      "set"         "0.0.1" "https://github.com/mech-machines/set/releases/download/v0.0.1/"
                      "mech"        "0.0.1" "https://github.com/mech-machines/mech/releases/download/v0.0.1/"
